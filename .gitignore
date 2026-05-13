@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.log
+
+# Large Binaries (Upload these via GitHub Releases UI instead)
+*.apk
+*.zip
+*.aab
+
+# Local development files
+.idea/
+.vscode/
+node_modules/
+__pycache__/
+*.pyc
