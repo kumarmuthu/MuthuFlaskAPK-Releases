@@ -15,13 +15,14 @@ backend.
 
 ## 📥 How to Download and Install
 
-Due to security and privacy policies, **the APK cannot be hosted or downloaded
-directly from GitHub**.
+The official distribution is managed via **Google Firebase App Distribution** using **Build Groups** for automated delivery.
 
-The official distribution is managed via **Google Firebase App Distribution**. To get the latest
-version:
+### 🔗 Direct Access
+If you are already a member of the testing group, you can access all releases directly here:
+👉 **[Muthu Flask APK - Tester Dashboard](https://appdistribution.firebase.google.com/testerapps/1:530275431915:android:45a2fb406a05dd46bd95ae)**
 
-1. **Request Invitation**: Contact the developer to be added to the `muthuflaskapk-internal` group.
+### 🆕 How to Join
+1. **Request Access**: Contact the developer to be added to the `muthuflaskapk-internal` distribution group.
 2. **Check your Email**: Look for an invitation from "Firebase App Distribution".
 3. **Join & Install**:
     - Open the invitation on your Android device and tap **"Get started"**.
