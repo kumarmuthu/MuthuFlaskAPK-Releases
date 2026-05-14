@@ -17,9 +17,11 @@ backend.
 
 The official distribution is managed via **Google Firebase App Distribution** using **Build Groups** for automated delivery.
 
-### 🔗 Direct Access
-If you are already a member of the testing group, you can access all releases directly here:
-👉 **[Muthu Flask APK - Tester Dashboard](https://appdistribution.firebase.google.com/testerapps/1:530275431915:android:45a2fb406a05dd46bd95ae)**
+### 🔗 Direct Access (Mobile Only)
+If you want to join the testing group and access all releases, use this link on your **Android device**:
+👉 **[Join Muthu Flask APK Testing Group](https://appdistribution.firebase.dev/i/0bc8bf97a94fc340)**
+
+> **Note:** If you see a "Mobile Required" message, please open the link in a browser on your Android phone or use the **App Tester** app.
 
 ### 🆕 How to Join
 1. **Request Access**: Contact the developer to be added to the `muthuflaskapk-internal` distribution group.
