@@ -9,7 +9,7 @@ $RECYCLE.BIN/
 *.log
 
 # Large Binaries (Upload these via GitHub Releases UI instead)
-*.apk
+# *.apk
 *.zip
 *.aab
 
