@@ -20,7 +20,7 @@ Choose your preferred download method to install **Muthu Flask APK** on your And
 
 Download the latest APK from our dedicated GitHub Releases repository.
 
-👉 [Download Muthu Flask APK V3](https://github.com/kumarmuthu/MuthuFlaskAPK-Releases/raw/refs/heads/main/releases/latest/MuthuFlaskAPKV3.Oct.2026.apk)
+👉 **[Download Muthu Flask APK V3 — October 2026](https://github.com/kumarmuthu/MuthuFlaskAPK-Releases/raw/refs/heads/main/MuthuFlaskAPK-Releases/releases/latest/MuthuFlaskAPKV3.Oct.2026.apk)**
 
 - **APK:** `MuthuFlaskAPKV3.Oct.2026.apk`
 - **Platform:** Android
